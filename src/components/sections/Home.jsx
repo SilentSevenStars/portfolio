@@ -44,7 +44,7 @@ export const Home = () => {
               </a>
 
               <a
-                href="/resume.csv"
+                href="https://josephmatthewringor.netlify.app/resume.pdf"
                 download
                 className="bg-gradient-to-r from-blue-500 to-cyan-400 
                text-white py-3 px-6 rounded font-medium 
