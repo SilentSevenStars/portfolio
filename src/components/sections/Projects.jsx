@@ -8,7 +8,7 @@ export const Projects = () => {
         "A Automated Faculty Hiring designed for faster work flow for the hiring",
       image: "CLSU-FHES.png",
       tech: ["Laravel", "Livewire", "TailwindCSS", "Alphine.js", "MySQL"],
-      link: "not availle",
+      link: "https://github.com/SilentSevenStars/CLSU-FHES.git",
     },
     {
       title: "Food Delivery App",

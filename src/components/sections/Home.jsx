@@ -51,7 +51,7 @@ export const Home = () => {
                transition relative overflow-hidden hover:-translate-y-0.5 
                hover:shadow-[0_0_15px_rgba(59,130,246,0.4)]"
               >
-                Download CSV
+                Download CV
               </a>
             </div>
           </div>
